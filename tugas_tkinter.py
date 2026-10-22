@@ -35,4 +35,6 @@ for pelajaran in mapel:
     entry = tk.Entry(frame, width=15)
     entry.pack(side="left")
 
+    input_nilai.append(entry)
+
 

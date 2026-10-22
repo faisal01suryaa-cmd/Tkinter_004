@@ -40,4 +40,9 @@ for pelajaran in mapel:
 def hasil_prediksi():
     hasil.config(text="Hasil Prediksi: Teknologi Informasi")
 
+tombol = tk.Button(
+    root,
+    text="Hasil Prediksi",
+    command=hasil_prediksi
+)
 

@@ -37,4 +37,7 @@ for pelajaran in mapel:
 
     input_nilai.append(entry)
 
+def hasil_prediksi():
+    hasil.config(text="Hasil Prediksi: Teknologi Informasi")
+
 

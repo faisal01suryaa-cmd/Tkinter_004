@@ -22,3 +22,5 @@ mapel = [
     "Sosiologi",
     "Geografi"
 ]
+
+input_nilai = []

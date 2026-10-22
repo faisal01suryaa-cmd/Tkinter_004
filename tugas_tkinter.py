@@ -54,3 +54,4 @@ hasil = tk.Label(
 )
 hasil.pack(pady=5)
 
+root.mainloop()

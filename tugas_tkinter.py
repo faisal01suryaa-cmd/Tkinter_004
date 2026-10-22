@@ -28,3 +28,7 @@ input_nilai = []
 for pelajaran in mapel:
     frame = tk.Frame(root)
     frame.pack(pady=3)
+
+    label = tk.Label(frame, text=pelajaran, width=18, anchor="w")
+    label.pack(side="left")
+

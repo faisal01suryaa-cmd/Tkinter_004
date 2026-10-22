@@ -32,3 +32,7 @@ for pelajaran in mapel:
     label = tk.Label(frame, text=pelajaran, width=18, anchor="w")
     label.pack(side="left")
 
+    entry = tk.Entry(frame, width=15)
+    entry.pack(side="left")
+
+

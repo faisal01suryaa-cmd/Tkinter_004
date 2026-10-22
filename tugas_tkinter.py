@@ -10,3 +10,15 @@ judul = tk.Label(
 )
 judul.pack(pady=15)
 
+mapel = [
+    "Matematika",
+    "Bahasa Indonesia",
+    "Bahasa Inggris",
+    "Fisika",
+    "Kimia",
+    "Biologi",
+    "Informatika",
+    "Ekonomi",
+    "Sosiologi",
+    "Geografi"
+]
